@@ -1,0 +1,4 @@
+http://goo.gl/iTCPWL
+
+intall via fastboot
+fastboot flash recovery recovery_philz_t00f.img
